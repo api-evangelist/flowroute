@@ -1,0 +1,58 @@
+{
+    "name": "Flowroute",
+    "description": "Flowroute is the leading provider of cloud-based communications and is based in Seattle, Washington.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28795-developer-flowroute-com.jpg",
+    "tags": [
+        "have api",
+        "isp",
+        "messages",
+        "telecommunications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/flowroute\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Flowroute APIs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28795-developer-flowroute-com.jpg",
+            "humanURL": "http:\/\/developer.flowroute.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/flowroute-apis-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/flowroute-apis.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/flowroute"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/flowroute"
+        },
+        {
+            "type": "Email",
+            "url": "legal@flowroute.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/flowroute"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.flowroute.com"
+        }
+    ]
+}
