@@ -1,5 +1,5 @@
 {
-    "id": "298a87112f1583f99d16362d3e854d2e",
+    "id": "412ab754d1544d201f10a17dde604218",
     "name": "Flowroute APIs",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "6ad4a22d34e2f366e62c7a853431e49a",
+            "id": "63d989de3bd1ca44a5da245f73417a91",
             "name": "Send a Message",
             "url": "https\/\/v2.1\/messages",
             "description": "Sends an SMS or MMS from a Flowroute long code or toll-free phone number to another valid phone number.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "df9bd83d687cf9e80a160fc7641ec1eb",
+            "id": "ad4a72d2ad4ca6cd85477a787d55ef47",
             "name": "Look Up a Set of Messages",
             "url": "https\/\/v2.1\/messages",
             "description": "Retrieves a list of Message Detail Records (MDRs) within a specified date range. Date and time is based on Coordinated Universal Time (UTC).",
@@ -81,11 +81,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "bb7e4b232ba431f74a606265b06677b4",
+            "id": "3af55d74bc7e5e3faf0e77ddc6d92e54",
             "name": "Look Up a Message Detail Record",
             "url": "https\/\/v2.1\/messages\/{id}",
             "description": "Searches for a specific message record ID and returns a Message Detail Record (in MDR2 format).",
@@ -112,11 +112,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "a30780e556509384d7371a1a242f9792",
+            "id": "6caa64835cd5a154e3d7f05b2ff08f22",
             "name": "Account Phone Numbers",
             "url": "https\/\/v2\/numbers",
             "description": "Returns a list of all phone numbers currently on your Flowroute account. The response includes details such as the phone number's rate center, state, number type, and whether CNAM Lookup is enabled for that number.",
@@ -171,11 +171,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "3b2da179da11a543d587635a29ee9249",
+            "id": "8f77decf3f7db1f6666f8e9aa58584e5",
             "name": "Phone Number Details",
             "url": "https\/\/v2\/numbers\/{id}",
             "description": "Lists all of the information associated with any of the phone numbers in your account, including billing method, primary voice route, and failover voice route.",
@@ -202,11 +202,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "6f482f7c076990c9f0ec36bb298ee80d",
+            "id": "2b1d3eca2e7dd8140af31766b97afcb0",
             "name": "Purchase a Phone Number",
             "url": "https\/\/v2\/numbers\/{id}",
             "description": "Lets you purchase a phone number from available Flowroute inventory.",
@@ -233,11 +233,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "6cec6d5d4f564a49cda2f0f2a678020b",
+            "id": "2f59d769f8d9d69ab34a756a1a47ec7b",
             "name": "Search for Purchasable Phone Numbers",
             "url": "https\/\/v2\/numbers\/available",
             "description": "This endpoint lets you search for phone numbers by state or rate center, or by your specified search value.",
@@ -306,11 +306,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "92cacb7503e559bacbd429bcd88ceca1",
+            "id": "d28526235fac60c7b70304ebf7e055ca",
             "name": "List Available Area Codes",
             "url": "https\/\/v2\/numbers\/available\/areacodes",
             "description": "Returns a list of all Numbering Plan Area (NPA) codes containing purchasable phone numbers.",
@@ -351,11 +351,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "ece87d5320f8eb615b9a69bc5a42e9bf",
+            "id": "169d8acb11992be090b589717a0357b8",
             "name": "List Available Exchange Codes",
             "url": "https\/\/v2\/numbers\/available\/exchanges",
             "description": "Returns a list of all Central Office (exchange) codes containing purchasable phone numbers.",
@@ -403,11 +403,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "16092a4310eefb8c32a9c10877760d10",
+            "id": "c5535e88a6ddc91712eab2ffa655c41b",
             "name": "Update Primary Voice Route for a Phone Number",
             "url": "https\/\/v2\/numbers\/{number_id}\/relationships\/primary_route",
             "description": "Use this endpoint to update the primary voice route for a phone number. You must create the route first by following \"Create an Inbound Route\". You can then assign the created route by specifying its value in a PATCH request.",
@@ -434,11 +434,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "7c45a0cae4264c7a1cc3f18389f84d03",
+            "id": "f8bcfad1690966fecee0cd46d8ddbcd4",
             "name": "Update Failover Voice Route for a Phone Number",
             "url": "https\/\/v2\/numbers\/{number_id}\/relationships\/failover_route",
             "description": "Use this endpoint to update the failover voice route for a phone number. You must create the route first by following \"Create an Inbound Route\". You can then assign the created route by specifying its value in a PATCH request.",
@@ -465,11 +465,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "e7634aa75a5f0b30c571cdef3a2df878",
+            "id": "e149d74c17dffd719821f97f37a9eac9",
             "name": "Create an Inbound Route",
             "url": "https\/\/v2\/routes",
             "description": "Creates a new inbound route which can then be associated with phone numbers. Please see \"List Inbound Routes\" to review the route values that you can associate with your Flowroute phone numbers.",
@@ -488,11 +488,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         },
         {
-            "id": "5025600474edb43c250c48444a99608f",
+            "id": "5ee337ceb60c55da93f74fd2d4024687",
             "name": "List Inbound Routes",
             "url": "https\/\/v2\/routes",
             "description": "Returns a list of your inbound routes. From the list, you can then select routes to use as the primary and failover routes for a phone number, which you can do via \"Update Primary Voice Route for a Phone Number\" and \"Update Failover Voice Route for a Phone Number\".",
@@ -533,7 +533,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "298a87112f1583f99d16362d3e854d2e",
+            "collectionId": "412ab754d1544d201f10a17dde604218",
             "rawModeData": ""
         }
     ]
